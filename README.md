@@ -1,2 +1,2 @@
 # UPY_IntelLabs-NucVision-
-Hi, this a repository about the research of how we can use the intel Nuc computer to train and design Computer Vision Technology
+This repository provides a step-by-step guide and codebase to train YOLO models on Intel GPUs, leveraging hardware acceleration through Intel Extension for PyTorch (IPEX) and OpenVINO Toolkit. It is designed for developers and researchers who want to utilize Intel GPUs (e.g., Intel Arc, integrated GPUs) for efficient deep learning workflows instead of traditional NVIDIA/CUDA setups.
