@@ -3,7 +3,7 @@
 🚀 Overview
 
 Let us introduce ourselves. We are the students. Rolando Lopez, Mauricio Laguna and Luis Romero
-it's a pleasure to meet you, I hope this guide will be useful for you.
+it's a pleasure to meet you, We hope this guide will be useful for you.
 so, lets Start.
 
 Hi UPY students.This repository provides a step-by-step guide and codebase to train YOLO models on Intel GPUs, leveraging hardware acceleration through Intel Extension for PyTorch (IPEX) and OpenVINO Toolkit. It is designed for developers and researchers who want to utilize Intel GPUs (e.g., Intel Arc, integrated GPUs) for efficient deep learning workflows instead of traditional NVIDIA/CUDA setups.
